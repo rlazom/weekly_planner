@@ -1,0 +1,4 @@
+var supabaseProjectApiUrl = 'https://dbhkrijgsjiwghcruhcc.supabase.co';
+var supabaseProjectAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRiaGtyaWpnc2ppd2doY3J1aGNjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDU2NzczNDMsImV4cCI6MjAyMTI1MzM0M30.OrSDAq24yhFiUQo27Fq3A9-HCKtgphVyBqLDntImQZI';
+var dbPass = 'CJ0hd7nA7R1HfjDs';
+var jwtSecret = 't4w/m0pd38+vwpq1qsyXCISsLuBtx7QDT8uaBYBKHgPxsCeQl4Pqf6nxM+jUMpgGBUiymJVv0OUhBm8UnYP8Fg==';
